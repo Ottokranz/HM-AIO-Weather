@@ -1,2 +1,2 @@
 # HM-AIO-Weather
-Weatherstation on Arduino connected to Homematic CCU2
+Weatherstation on Arduino NANO connected to Homematic CCU2
